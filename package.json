@@ -1,0 +1,16 @@
+{
+  "name": "cloudfront-s3-listing",
+  "version": "1.0.0",
+  "description": "Lambda@Edge 部署失败的常见原因：",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1004.0"
+  }
+}
