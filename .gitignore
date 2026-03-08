@@ -1,0 +1,10 @@
+node_modules/
+function.zip
+*.bak
+response.json
+payload.b64
+dist-config.json
+etag.txt
+config-only.json
+updated-config.json
+test-event.json
